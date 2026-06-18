@@ -3217,7 +3217,7 @@ To handle this, I would start by reviewing deployment and application logs in st
 </details> 
 
 <details>
-<summary>Why was the Go langauge created?</summary>
+<summary>Why was the Go language created?</summary>
 
 *Answer coming soon!
 
